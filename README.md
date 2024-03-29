@@ -13,7 +13,7 @@ Technology used :
     System Programming using C
 
 Architectural Requirement :
-      INtel 32 bit processor 
+      Intel 32 bit processor 
     
     
 
